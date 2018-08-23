@@ -1,4 +1,4 @@
 # Test project
 ## Github familiarization
 
-Studing javascript
+Studing javascript changes in 22
